@@ -1,3 +1,11 @@
+% Gnetic algorithm For feature selection by Sadegh Salesi and Georgina Cosma      %
+% Programmed by Sadegh Salesi at Nottignham Trent University              %
+% Last revised:  2017     %
+% Reference: S. Salesi and G. Cosma, A novel extended binary cuckoo search algorithm for feature selection, 2017 2nd International Conference on Knowledge Engineering and Applications (ICKEA), London, 2017, pp. 6-12.
+% https://ieeexplore.ieee.org/document/8169893
+% Copyright (c) 2017, Sadegh Salesi and Georgina Cosma. All rights reserved.
+% -----------------------------------------------------------------
+
 clc;
 clear;
 close all;
